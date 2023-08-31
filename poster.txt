@@ -1,0 +1,87 @@
+Title: Introduction to Object Oriented Programming in Python
+
+Training level: Independent
+
+Requirement for the participant:
+- Basics of Python - basic syntax, keywords, built-in data types, variables, functions, loops, Python console, executing Python script
+- Installed Python 3.10+
+- Installed Python IDE eg. VS Code, PyCharm
+- (optional) IDE that allows reading *.ipynb files (Jupyter Notbooks)
+
+
+Training description:
+1. Introduction
+   * Prior knowledge
+   * Class definition syntax 
+   * Operations on classes
+   * Class initialization
+   * Object / instance
+   * Terminology
+2. Pillars of Object Oriented Programming
+   * Inheritance
+      -	inheritance and relationships
+      -  single / multilevel / hierarchical inheritance
+      -	multiple inheritance (MRO)
+      -	mixin
+      -	composition
+   * Encapsulation
+      -	bound / class / static methods
+      -	class / instance attributes
+      -  interface
+      -	information hiding
+      -  property() function
+   * Abstraction
+      -	abstract classes
+      -	abstract methods
+      -	abstract property
+   * Polymorphism
+      -  examples
+      -	method overriding (super)
+      -	method overloading (dispatch)
+      -	callable
+      -	iteratable
+      -	subscriptable
+3.	Design considerations
+   * Cohesion
+   * Coupling
+
+Bonus content (if time remains)
+
+4. SOLID Principles
+   * The Single-Responsibility Principle (SRP)
+   * The Open-Closed Principle (OCP)
+   * The Liskov Substitution Principle (LSP)
+   * The Interface Segregation Principle (ISP)
+   * The Dependency inversion Principle (DIP)
+
+
+
+Training agenda:
+
+1. Introduction
+
+=== Short Break ===
+
+2. Pillars of Object Oriented Programming
+- Inheritance
+- Encapsulation
+
+=== Long Break (~30 min.) ===
+
+- Abstraction
+- Polymorphism
+
+=== Short Break ===
+
+3. Design considerations
+- Cohesion
+- Coupling
+
+=== Bonus Content ===
+
+4. SOLID principles
+
+
+* Exact breaks to be agreed with participants
+** After every major topic there will be exercises
+*** If time remains (i.e. group completes all exercises fast) there will be a bonus chapter about SOLID principles
